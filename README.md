@@ -135,3 +135,11 @@ fig.update_layout(title='World Map - Average Salary')
 fig.show()
 ```
 **Answer**: The world map visualizes the average salary across different countries.
+
+## 📊Tableau Visualization
+I have developed a Tableau dashboard to provide deeper insights into the world of data science jobs.
+[Dashboard Link](https://public.tableau.com/app/profile/giftson.osborne.affum/viz/JobsinDataScience/Dashboard2)
+
+<img width="611" alt="jobs data" src="https://github.com/ask-Osborne/Data-Science-Jobs-Exploration-/assets/154265439/70b8467b-5938-4d0e-a50f-f261eaf641d4">
+
+
